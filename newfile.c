@@ -1,5 +1,4 @@
 test
-<<<<<<< HEAD
 testalix
 tesst
 =======
